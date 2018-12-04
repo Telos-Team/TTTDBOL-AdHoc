@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TTT DinBOLI AdHoc">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2899367560 - Method 1424397586 - NamedType 939306557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTDBOLAdHocCopyJobTasks - Method SelectAction - NamedType loctextSelectActionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2899367560 - Method 1424397586 - NamedType 2802658356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CopyJobTask,Unknown</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTDBOLAdHocCopyJobTasks - Method SelectAction - NamedType loctextActionsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2899367560 - Method 2452833776 - NamedType 61110112" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Job to copy from</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTDBOLAdHocCopyJobTasks - Method CopyJobTasks - NamedType loctextSelectFromJobTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2899367560 - Method 2452833776 - NamedType 2690282411" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Job to copy to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTDBOLAdHocCopyJobTasks - Method CopyJobTasks - NamedType loctextSelectToJobTxt</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

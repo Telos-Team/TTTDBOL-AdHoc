@@ -1,0 +1,35 @@
+{
+  "id": "1449b767-99dd-412a-9aae-78f70feeca0a",
+  "name": "TTT DinBOLI AdHoc",
+  "publisher": "Telos Team",
+  "brief": "TTT DinBOLI AdHoc",
+  "description": "Ad hoc objects for DinBOLI",
+  "version": "1.0.0.0",
+  "privacyStatement": "http://telosteam.dk/privacy",
+  "EULA": "http://telosteam.dk/eula",
+  "help": "http://telosteam.dk/help",
+  "url": "http://telosteam.dk",
+  "logo": "./res/TT_Logo square.png",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "cf06a49c-eae4-4636-ace0-838f069fa2e4", 
+      "name": "TTT DinBOLI Core", 
+      "publisher": "Telos Team", 
+      "version": "1.0.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  },
+  "runtime": "2.1",
+  "target": "Extension",
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ]
+}
